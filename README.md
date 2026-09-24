@@ -61,7 +61,7 @@ I used the following commands to install and start Apache on both EC2 instances:
 
 ![Server 1 Output](screenshots/server-1-output.png)
 
-### Server 2 Output
+ ### Server 2 Output
 
 ![Server 2 Output](screenshots/server-2-output.png)
 
